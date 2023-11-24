@@ -1,5 +1,6 @@
 ## I belong to coins21
 ## applied information engineer
+## I love writting Python
 ###
 ### I'm learning 
 - Python(Flask,Pytorch)
