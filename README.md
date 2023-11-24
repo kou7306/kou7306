@@ -1,12 +1,14 @@
 ## I belong to coins21
+###　applied information engineer
+###
 ### I'm learning 
-- Python
+- Python(Flask,Pytorch)
 - JavaScript
 - C++
 - flutter
 - C
 - Unity
-- Matlab
+- MATLAB
 - AWS
 - WordPress
 
