@@ -1,14 +1,14 @@
 ## I belong to coins21
-## applied information engineer
+## I'm an applied information engineer
 ## I love writting Python
 ###
 ### I'm learning 
-- Python(Flask,Pytorch)
+- Python(Flask,Pytorch,スクレイピング,selenium)
 - JavaScript
-- C++
-- flutter
+- C++(atcorder）
+- flutter(Dart)
 - C
-- Unity
+- Unity(C#)
 - MATLAB
 - AWS
 - WordPress
