@@ -6,12 +6,10 @@
 ### I'm learning 
 - Python(Flask,Pytorch,スクレイピング,selenium)
 - JavaScript
-- C++(atcorder）
 - flutter(Dart)
 - C
 - Unity(C#)
 - MATLAB
-- AWS
 - WordPress
 
 
