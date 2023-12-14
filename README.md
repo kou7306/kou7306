@@ -7,7 +7,6 @@
 - Python(Flask,Pytorch,スクレイピング,selenium)
 - JavaScript
 - HTML,CSS
-- flutter(Dart)
 - C
 - Unity(C#)
 - MATLAB
