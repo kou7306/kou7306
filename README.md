@@ -5,13 +5,14 @@
 ###
 ### I'm learning 
 - Python(Flask,Pytorch,スクレイピング,selenium)
-- JavaScript
+- JavaScript(Next.js,Three.js)
 - HTML,CSS
 - C
 - Unity(C#)
 - MATLAB
 - WordPress
 - Firebase
+- GCP
 
 
   
