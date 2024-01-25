@@ -18,7 +18,7 @@
 
 
   
-[![kou7306's GitHub stats](https://github-readme-stats.vercel.app/api?username=kou7306&theme=vue-dark&show_icons=true)]
+[![kou7306's GitHub stats](https://github-readme-stats.vercel.app/api?username=kou7306&theme=vue-dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kou7306&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/kou7306/github-readme-stats)
 
