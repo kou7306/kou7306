@@ -22,7 +22,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kou7306&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/kou7306/github-readme-stats)
 
-（https://img2.animatetimes.com/2021/03/6044d7f973cd9_cfc3342d800dae57480a7e0f7bd2bef3.jpg）
+![Uploading DALL·E 2024-01-27 02.54.42 - An image of a powerful boss who controls the underworld in a fantasy setting, radiating an unmistakable aura of authority and danger. This character i.png…]()
+
 
 <!--
 **kou7306/kou7306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
