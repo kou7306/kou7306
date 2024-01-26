@@ -22,7 +22,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kou7306&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/kou7306/github-readme-stats)
 
-https://img2.animatetimes.com/2021/03/6044d7f973cd9_cfc3342d800dae57480a7e0f7bd2bef3.jpg
+（https://img2.animatetimes.com/2021/03/6044d7f973cd9_cfc3342d800dae57480a7e0f7bd2bef3.jpg）
 
 <!--
 **kou7306/kou7306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
