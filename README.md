@@ -8,6 +8,7 @@
 - JavaScript(Next.js,Three.js)
 - HTML,CSS
 - C
+- Go
 - Unity(C#)
 - MATLAB
 - Firebase
