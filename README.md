@@ -22,7 +22,7 @@
 [![kou7306's GitHub stats](https://github-readme-stats.vercel.app/api?username=kou7306&theme=vue-dark&show_icons=true)](https://github.com/kou7306/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kou7306&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/kou7306/github-readme-stats)
-
+![Top Langs](https://gotest-1ov9.onrender.com)
 
 
 
