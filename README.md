@@ -23,10 +23,9 @@ https://portfolio-git-master-kous-projects-7736bb57.vercel.app/
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kou7306&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/kou7306/github-readme-stats)
 
 
-![result](https://github.com/kou7306/kou7306/assets/80336703/cf0623ac-3a9d-43f2-9bff-fd94a8872c6b)
 
 
-
+![result](https://github.com/kou7306/kou7306/assets/80336703/00ca61e8-d058-4750-a51d-a1ceb8ccc79f)
 
 <!--
 **kou7306/kou7306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
