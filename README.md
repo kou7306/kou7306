@@ -23,6 +23,7 @@ https://portfolio-git-master-kous-projects-7736bb57.vercel.app/
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kou7306&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/kou7306/github-readme-stats)
 
 
+![result](https://github.com/kou7306/kou7306/assets/80336703/49e70f8d-d167-44a5-86e3-7277dbf74704)
 
 
 
