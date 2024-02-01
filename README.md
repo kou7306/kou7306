@@ -14,8 +14,7 @@
 - Firebase
 - GCP
 
-
-##　ポートフォリオサイト
+## ポートフォリオサイト
 https://portfolio-git-master-kous-projects-7736bb57.vercel.app/
 
   
