@@ -25,7 +25,7 @@ https://portfolio-git-master-kous-projects-7736bb57.vercel.app/
 
 
 
-![result](https://github.com/kou7306/kou7306/assets/80336703/00ca61e8-d058-4750-a51d-a1ceb8ccc79f)
+
 
 <!--
 **kou7306/kou7306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
