@@ -27,7 +27,7 @@ https://portfolio-git-master-kous-projects-7736bb57.vercel.app/
 ![GitHub persona](https://read-413014.an.r.appspot.com/create?username=kou7306)
 
 
-
+![GitHub persona](https://read-413014.an.r.appspot.com/create?username=kou7306)
 
 
 <!--
