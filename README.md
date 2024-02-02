@@ -12,7 +12,6 @@
 - Unity(C#)
 - MATLAB
 - Firebase
-- ![result](https://github.com/kou7306/kou7306/assets/80336703/7c1a5c1f-9a39-4cc3-81c9-03ac98fe935e)
 
 - GCP
 
