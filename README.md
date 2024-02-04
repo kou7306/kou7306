@@ -23,7 +23,7 @@ https://portfolio-git-master-kous-projects-7736bb57.vercel.app/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kou7306&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/kou7306/github-readme-stats)
 
-
+## ↓これ作りました
 [![GitHub persona](https://read-413014.an.r.appspot.com/create?username=kou7306)](https://github.com/kou7306/github-readme-stats)
 
 
