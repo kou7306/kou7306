@@ -1,7 +1,6 @@
 ## I belong to coins21
 ## I belong to intelligent robot laboratory
-## I'm an applied information engineer
-## I love writting Python
+
 ###
 ### I'm learning 
 - Python(Flask,Pytorch,スクレイピング,selenium)
