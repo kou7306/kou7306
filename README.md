@@ -19,9 +19,7 @@
 ### https://portfolio-git-master-kous-projects-7736bb57.vercel.app/
 
   
-[![kou7306's GitHub stats](https://github-readme-stats.vercel.app/api?username=kou7306&theme=vue-dark&show_icons=true)](https://github.com/kou7306/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kou7306&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/kou7306/github-readme-stats)
 
 ## ↓これ作りました。みんなも使ってね
 ### 試しに使ってみたい方はこちら→https://read-me-psi.vercel.app/ 
@@ -30,7 +28,9 @@
 [![GitHub persona](https://read-413014.an.r.appspot.com/create?username=kou7306)](https://github.com/kou7306/github-readme-stats)
 
 
+[![kou7306's GitHub stats](https://github-readme-stats.vercel.app/api?username=kou7306&theme=vue-dark&show_icons=true)](https://github.com/kou7306/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kou7306&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/kou7306/github-readme-stats)
 
 <!--
 **kou7306/kou7306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
