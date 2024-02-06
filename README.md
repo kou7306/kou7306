@@ -5,7 +5,7 @@
 ### I'm learning 
 - Python(Flask,Pytorch,スクレイピング,selenium)
 - JavaScript(Next.js,Three.js)
-- HTML,CSS
+- HTML,CSS(tailwind,css modules)
 - C
 - Go
 - Unity(C#)
