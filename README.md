@@ -24,7 +24,7 @@
 ### 試しに使ってみたい方はこちら→https://read-me-psi.vercel.app/ 
 ### 使い方はこちらのReadMe→https://github.com/tomoish/github-persona
 
-
+[![GitHub persona](https://read-413014.an.r.appspot.com/create?username=kou7306)](https://github.com/kou7306/github-readme-stats)
 
 
 [![kou7306's GitHub stats](https://github-readme-stats.vercel.app/api?username=kou7306&theme=vue-dark&show_icons=true)](https://github.com/kou7306/github-readme-stats)
