@@ -27,7 +27,7 @@
 [![GitHub persona](https://read-413014.an.r.appspot.com/create?username=kou7306)](https://github.com/kou7306/github-readme-stats)
 
 
-[![kou7306's GitHub stats](https://github-readme-stats.vercel.app/api?username=kou7306&theme=vue-dark&show_icons=true)](https://github.com/kou7306/github-readme-stats)
+[![kou7306's GitHub stats](https://github-readme-stats.vercel.app/api?username=kou7306&show_icons=true&theme=radical)](https://github.com/kou7306/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kou7306&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/kou7306/github-readme-stats)
 
