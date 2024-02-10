@@ -11,15 +11,13 @@
 - Unity(C#)
 - MATLAB
 - Firebase
-
 - GCP
+
   
 ## ポートフォリオサイト
 ### https://kota-portfolio.vercel.app
-  
-  
 
-
+  
 ## ↓これ作りました。みんなも使ってね
 ### 試しに使ってみたい方はこちら→https://read-me-psi.vercel.app/ 
 ### 使い方はこちらのReadMe→https://github.com/tomoish/github-persona
