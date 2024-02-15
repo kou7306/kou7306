@@ -4,7 +4,7 @@
 ###
 ### I'm learning 
 - Python(Flask,Pytorch,スクレイピング,selenium)
-- JavaScript(Next.js,Three.js)
+- JavaScript,TypeScript(Next.js,Three.js)
 - HTML,CSS(tailwind,css modules)
 - C
 - Go
