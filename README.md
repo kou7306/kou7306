@@ -8,10 +8,12 @@
 - HTML,CSS(tailwind,css modules)
 - C
 - Go
+- Ruby
 - Unity(C#)
 - MATLAB
 - Firebase
 - GCP
+
 
   
 ## ポートフォリオサイト
