@@ -16,7 +16,7 @@
 
 
   
-## ポートフォリオサイト
+## Portfolio
 ### https://kota-portfolio.vercel.app
 
   
