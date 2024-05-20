@@ -27,6 +27,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kou7306&theme=midnight-purple)](https://github.com/kou7306/github-readme-stats)
 
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kou7306&theme=transparent&exclude=html,css
+
+http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kou7306&theme=transparent&exclude=html,css
+
+
 <!--
 **kou7306/kou7306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
