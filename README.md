@@ -25,7 +25,7 @@
 
 [![kou7306's GitHub stats](https://github-readme-stats.vercel.app/api?username=kou7306&show_icons=true&theme=midnight-purple)](https://github.com/kou7306/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kou7306&theme=midnight-purple)](https://github.com/kou7306/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kou7306&theme=midnight-purple&hide=jupyter%20notebook,html,css)](https://github.com/kou7306/github-readme-stats)
 
 
 
