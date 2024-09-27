@@ -1,19 +1,6 @@
 ## I belong to coins21
 ## I belong to intelligent robot laboratory
 
-###
-### I'm learning 
-- Python(Flask,Pytorch,スクレイピング,selenium)
-- JavaScript,TypeScript(Next.js,Three.js)
-- HTML,CSS(tailwind,css modules)
-- C
-- Go
-- Ruby
-- Unity(C#)
-- MATLAB
-- Firebase
-- GCP
-
 
   
 ## Portfolio
