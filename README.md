@@ -7,14 +7,14 @@
 ### https://kota-portfolio.vercel.app
 
   
-[![kou7306's GitHub stats](https://github-readme-stats.vercel.app/api?username=kou7306&show_icons=true&theme=midnight-purple&count_private=true)](https://github.com/kou7306/github-readme-stats)
+[![kou7306's GitHub stats](https://github-readme-stats.vercel.app/api?username=kou7306&show_icons=true&theme=midnight-purple&count_private=true)](https://github.com/kou7306/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kou7306&theme=midnight-purple&hide=jupyter%20notebook,html,css,makefile)](https://github.com/kou7306/github-readme-stats)
 
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kou7306&theme=midnight-purple&hide=jupyter%20notebook,html,css,makefile)](https://github.com/kou7306/github-readme-stats)
 
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kou7306&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **kou7306/kou7306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
