@@ -20,10 +20,6 @@
 
 
 
-![GitHub persona](https://github-persona-backend-347803101234.us-central1.run.app
-/create?username=kou7306)
-
-
 <!--
 **kou7306/kou7306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
