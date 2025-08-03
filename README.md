@@ -19,7 +19,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kou7306&theme=dark)](https://git.io/streak-stats)
 
 
-![GitHub persona](https://github-persona-backend-347803101234.us-central1.run.app
+[![GitHub persona]](https://github-persona-backend-347803101234.us-central1.run.app
 /create?username=kou7306)
 
 <!--
