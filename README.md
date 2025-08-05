@@ -19,10 +19,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kou7306&theme=dark)](https://git.io/streak-stats)
 
 
-![GitHub Persona](https://github-persona-backend-vrkndjdhdq-uc.a.run.app/github?username=kou7306)
-
-↑ これ自作です
-https://github-persona-one.vercel.app
 
 <!--
 **kou7306/kou7306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
