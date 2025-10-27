@@ -4,7 +4,7 @@
 
   
 ### Portfolio
-### https://kota-portfolio.com/
+### https://kota-portfolio.com
 
   
 [![kou7306's GitHub stats](https://github-readme-stats.vercel.app/api?username=kou7306&show_icons=true&theme=midnight-purple&count_private=true)](https://github.com/kou7306/github-readme-stats)
