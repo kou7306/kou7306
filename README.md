@@ -9,8 +9,8 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kou7306)](https://git.io/streak-stats)
-
+## GitHub Persona
+[![GitHub Persona](https://kota-portfolio.com/api/github-persona?username=kou7306)](https://github.com/kou7306/github-persona)
 
 
 <!--
