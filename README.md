@@ -8,10 +8,6 @@
 
 
 
-
-## GitHub Persona
-[![GitHub Persona](https://kota-portfolio.com/api/github-persona?username=kou7306&t=1)](https://github.com/kou7306/github-persona)
-
 <!--
 **kou7306/kou7306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
